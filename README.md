@@ -14,7 +14,7 @@ Criado por:
 # Estrutura de dados do projeto
 
   O app possui integração com o banco de dados google firebase, os dados são guardados em formato de objeto, segue abaixo imagens mostrando melhor este tópico.
- ![Diagrama de classe representando a classe usuário](https://github.com/3duardocoder/Fluente-Rapido.github.io/blob/main/md_data/uml_user.jpeg)
+  <img src="https://github.com/3duardocoder/Fluente-Rapido.github.io/blob/main/md_data/uml_user.jpeg" alt="Diagrama de classe representando a classe usuário" width="500px"/>
  ![exemplo de como os dados são salvos no google firebase](https://github.com/3duardocoder/Fluente-Rapido.github.io/blob/main/md_data/firebase_exemplo.png)
 
 ---
