@@ -22,4 +22,7 @@ Criado por:
 <img src="https://github.com/3duardocoder/Fluente-Rapido.github.io/blob/main/md_data/uml_user.jpeg" alt="Diagrama de classe representando a classe usuário" width="500px"/>
 ---
 # Como baixar o app
- O aplicativo fluente rápido esta disponivel para dowload em nosso [site](https://3duardocoder.github.io/Fluente-Rapido.github.io/), é tambem está disponivel na loja alternativa de aplicativos chamada [aptoide](https://br.aptoide.com/)
+ O aplicativo fluente rápido esta disponivel para dowload em nosso [site](https://3duardocoder.github.io/Fluente-Rapido.github.io/), é tambem está disponivel na loja alternativa de aplicativos chamada [aptoide](https://br.aptoide.com/) ao qual irei mostra como fazer a instalação, primeiro instale a loja de aplicativos aptoide neste site: [https://aptoide.br.aptoide.com/app], após isso siga estes passos descritos no video abaixo:
+ <video width="370" height="658" controls>
+  <source src="tutorial_dowload.mp4" type="video/mp4">
+</video>
